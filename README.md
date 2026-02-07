@@ -18,6 +18,5 @@ Analysis was performed using SQL. The following steps were applied:
  - Creation of dadatabase and table 
  - data importation 
  - cleaning. 
- - Calculated metrics  
- - SQL techniques such as inner joins, group by, aggregations, where, case when logic, filtering, and sorting will be performed, using
+ - Calculated metrics were performed using SQL techniques such as inner joins, group by, aggregations, where, case when logic, filtering, and sorting were applied
 
