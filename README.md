@@ -13,7 +13,7 @@ These tables captured comprehensive information on customer demograph, product d
 
 ## **Methodology**
 
-Analysis was performed using SQL. The following steps were applied:
+I performed the Analysis using SQL and applied the following steps:
 
  - Creation of dadatabase and table 
  - data importation 
